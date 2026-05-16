@@ -2,7 +2,7 @@
 
 Submitted by: **Vanessa Balbuena**
 
-**Sea Monset Crowdfunding Stats** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding Stats** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **7** hours spent in total
 
